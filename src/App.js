@@ -16,6 +16,7 @@ const clickHandler = (e) => {
   }
   return (
     <>
+    <h1>heelo</h1>
       <div className="calc">
         <input type="text" placeholder="0" id="answer" value={result} />
         <input
